@@ -1,0 +1,10 @@
+C:\Users\ReaLBERG\Desktop\3 курс\ИСИТ\LB1Pol\LB1Pol\bin\Debug\LB1Pol.exe.config
+C:\Users\ReaLBERG\Desktop\3 курс\ИСИТ\LB1Pol\LB1Pol\bin\Debug\LB1Pol.exe
+C:\Users\ReaLBERG\Desktop\3 курс\ИСИТ\LB1Pol\LB1Pol\bin\Debug\LB1Pol.pdb
+C:\Users\ReaLBERG\Desktop\3 курс\ИСИТ\LB1Pol\LB1Pol\obj\Debug\LB1Pol.csprojAssemblyReference.cache
+C:\Users\ReaLBERG\Desktop\3 курс\ИСИТ\LB1Pol\LB1Pol\obj\Debug\LB1Pol.Form1.resources
+C:\Users\ReaLBERG\Desktop\3 курс\ИСИТ\LB1Pol\LB1Pol\obj\Debug\LB1Pol.Properties.Resources.resources
+C:\Users\ReaLBERG\Desktop\3 курс\ИСИТ\LB1Pol\LB1Pol\obj\Debug\LB1Pol.csproj.GenerateResource.cache
+C:\Users\ReaLBERG\Desktop\3 курс\ИСИТ\LB1Pol\LB1Pol\obj\Debug\LB1Pol.csproj.CoreCompileInputs.cache
+C:\Users\ReaLBERG\Desktop\3 курс\ИСИТ\LB1Pol\LB1Pol\obj\Debug\LB1Pol.exe
+C:\Users\ReaLBERG\Desktop\3 курс\ИСИТ\LB1Pol\LB1Pol\obj\Debug\LB1Pol.pdb
